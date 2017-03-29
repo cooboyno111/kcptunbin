@@ -9,11 +9,11 @@ kcptun\_miniexecutable使用方法
 1在openwrt的SDK目录下，运行命令“make kernel\_menuconfig”, 选择配置“kernel
 type”，如下图所示。
 
-![IMG\_256](media/f61cfb529282a8c70c6b9fa48416b526.png)
+![IMG\_256](1.png)
 
 2、在"kernel type"中，选中"MIPS FPU Emulator"，如下图所示。
 
-![IMG\_257](media/540582b05c70e76be131db0c371639a2.png)
+![IMG\_257](2.png)
 
  选择MIPS FPU Emulator
 
