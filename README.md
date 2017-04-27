@@ -1,4 +1,4 @@
-kcptun\_miniexecutable使用方法
+kcptun frpc\_miniexecutable使用方法
 
 基于golang1.8编译，速度比go1.4.2+gomips32编译出来的快一倍。
 
